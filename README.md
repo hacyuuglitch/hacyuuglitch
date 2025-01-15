@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @hacyuuglitch
-- 👀 I’m interested in ...
+- 👀 I’m interested in
 - 🌱 I’m currently learning php and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email "bebexian17@gmail.com"
-- 😄 Pronouns: HAKYOU
+- 💞️ I’m looking to collaborate on ..
+- 📫 You can reach me through my email "bebexian17@gmail.com"
+- 😄 Pronouns: HAKYOU not NVM.
 - ⚡ Fun fact: I love playing online games instead of coding.
 
 <!---
